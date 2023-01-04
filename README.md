@@ -6,7 +6,7 @@ Aprenda a criar um sistema de estacionamento usando TypeScript</strong> oferecid
 <strong>Desenvolver um sistema básico de estacionamento em Typescript.</strong>. 
 
 <h2>Dica:</h2>
-<a href="https://www.typescriptlang.org/docs/handbook/tsconfig-json.html/"><strong> Mais sobre o tsconfig.json</strong></a>.<br>
+<a href="https://www.typescriptlang.org/docs/handbook/tsconfig-json.html"><strong> Mais sobre o tsconfig.json</strong></a>.<br>
 
 
 
